@@ -161,3 +161,69 @@ li {
 }
 
 /* end New Task collapse section */
+
+
+
+
+/* Today collapse section */
+.task-uncompleted-mark {
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+
+    font-size: smaller;
+    text-align: center;
+
+    border-radius: 50%;
+    border-style: solid;
+
+    background-color: #ec5044;
+    color: #f6f8f9;
+}
+
+.q1-goals-label {
+    width: auto;
+    height: 2em;
+
+    font-size: xx-small;
+
+    display: inline-block;
+    border-radius: .7em;
+    border-style: solid;
+
+    border-color: transparent;
+    background-color: #9c72e4;
+    color: white;
+}
+
+.recruiting-label {
+    width: auto;
+    height: 2em;
+
+    font-size: xx-small;
+
+    display: inline-block;
+    border-radius: .7em;
+    border-style: solid;
+
+    border-color: transparent;
+    background-color: #64c0a9;
+    color: white;
+}
+
+.mobile-label {
+    width: auto;
+    height: 2em;
+
+    font-size: xx-small;
+
+    display: inline-block;
+    border-radius: .7em;
+    border-style: solid;
+
+    border-color: transparent;
+    background-color: #f29e33;
+    color: white;
+}
+
+/* end Today collapse section */
