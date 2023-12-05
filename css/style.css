@@ -227,3 +227,37 @@ li {
 }
 
 /* end Today collapse section */
+
+
+
+
+/* Upcoming collapse section */
+.website-label {
+    width: auto;
+    height: 2em;
+
+    font-size: xx-small;
+
+    display: inline-block;
+    border-radius: .7em;
+    border-style: solid;
+
+    border-color: transparent;
+    background-color: #d763a1;
+    color: white;
+}
+
+.sales-label {
+    width: auto;
+    height: 2em;
+
+    font-size: xx-small;
+
+    display: inline-block;
+    border-radius: .7em;
+    border-style: solid;
+
+    border-color: transparent;
+    background-color: #b0c925;
+    color: white;
+}
