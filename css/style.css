@@ -26,8 +26,6 @@ h1 {
     font-size: xx-large;
 }
 
-/* Fix needed: change font h1, vertically center h1 with img, 
-fix margin.*/
 /* end navbar */
 
 
@@ -51,6 +49,19 @@ main {
 }
 
 /* end main section */
+
+
+
+
+/* main collapse section */
+.main-collapse-section {
+    margin-top: -3em;
+    margin-left: -8em;
+
+}
+
+/* SO CHE NON SI USANO I VAORI NEGATIVI MA NON MO SI MUOVEVA */
+/* end main collapse section */
 
 
 
