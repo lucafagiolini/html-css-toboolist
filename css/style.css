@@ -4,7 +4,7 @@
 
 /* body */
 body {
-    background-color: #ffffff;
+    background-color: #d8dcdf;
 
 }
 
@@ -29,3 +29,25 @@ h1 {
 /* Fix needed: change font h1, vertically center h1 with img, 
 fix margin.*/
 /* end navbar */
+
+
+
+
+/* main section */
+main {
+    width: 80%;
+    height: auto;
+    margin: auto;
+
+    padding-top: 5em;
+    padding-right: 10em;
+    padding-bottom: 5em;
+    padding-left: 10em;
+
+    border-right: 10em;
+    border-radius: .4em;
+
+    background-color: #ffffff;
+}
+
+/* end main section */
