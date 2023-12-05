@@ -77,7 +77,10 @@ main {
 
 /* input section */
 .input-section {
-    padding-bottom: 2.5em;
+    margin-top: 0;
+    margin-bottom: 0;
+
+    padding-bottom: 0em;
 }
 
 .button-position {
@@ -116,6 +119,10 @@ main {
 
 
 /* New Task collapse section*/
+section {
+    margin-top: 3em;
+}
+
 .collapse-arrow {
     display: inline-block;
     font-size: xx-small;
