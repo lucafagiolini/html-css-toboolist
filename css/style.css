@@ -51,3 +51,43 @@ main {
 }
 
 /* end main section */
+
+
+
+
+/* input section */
+.input-section {
+    padding-bottom: 2.5em;
+}
+
+.button-position {
+    display: inline-block;
+
+    color: white;
+}
+
+#button-color-on {
+    width: auto;
+    height: 2em;
+
+    border-radius: 5px;
+    border-color: transparent;
+
+    background-color: #46adf1;
+    color: white;
+}
+
+#button-color-off {
+    width: auto;
+    height: 2em;
+
+    border-radius: 5px;
+    border-color: lightgrey;
+    border-style: solid;
+
+
+    background-color: white;
+    color: lightgrey;
+}
+
+/* end input section */
